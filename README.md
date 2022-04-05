@@ -1,1 +1,1 @@
-# Node.js-crud-project
+# Projeto CRUD completo (Node.js + MongoDB + Express)
